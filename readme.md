@@ -1,1 +1,1 @@
-aula de JavaScript 02/05/2023
+aula de JavaScript 02/05/2023.
